@@ -29,14 +29,14 @@
                 "url": "https://github.com/NetchX/Netch/releases/download/$version/Netch.$version.x64.7z",
                 "hash": {
                     "url": "https://github.com/NetchX/Netch/releases/tag/$version",
-                    "regex": "$basename.*?[.\\n].*?>([a-fA-F0-9]{64})<"
+                    "regex": "$basename.*?[.\\n].*>([a-fA-F0-9]{64})<"
                 }
             },
             "32bit": {
                 "url": "https://github.com/NetchX/Netch/releases/download/$version/Netch.$version.x86.7z",
                 "hash": {
                     "url": "https://github.com/NetchX/Netch/releases/tag/$version",
-                    "regex": "$basename.*?[.\\n].*?>([a-fA-F0-9]{64})<"
+                    "regex": "$basename.*?[.\\n].*>([a-fA-F0-9]{64})<"
                 }
             }
         }
