@@ -33,22 +33,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/tkit1994/aria2-fast/releases/download/v$version/aria2c-fast_x64.exe",
-                "bin": [
-                    [
-                        "aria2c-fast_x64.exe",
-                        "aria2c-fast"
-                    ]
-                ]
+                "url": "https://github.com/tkit1994/aria2-fast/releases/download/v$version/aria2c-fast_x64.exe"
             },
             "32bit": {
-                "url": "https://github.com/tkit1994/aria2-fast/releases/download/v$version/aria2c-fast_x86.exe",
-                "bin": [
-                    [
-                        "aria2c-fast_x86.exe",
-                        "aria2c-fast"
-                    ]
-                ]
+                "url": "https://github.com/tkit1994/aria2-fast/releases/download/v$version/aria2c-fast_x86.exe"
             }
         }
     }
