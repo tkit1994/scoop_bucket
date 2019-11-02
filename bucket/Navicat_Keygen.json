@@ -1,0 +1,28 @@
+{
+    "version": "5.3",
+    "description": "A keygen for Navicat",
+    "homepage": "https://github.com/Deltafox79/Navicat_Keygen",
+    "license": "Unknown",
+    "notes": "",
+    "depends": "",
+    "pre_install": [
+        "Get-ChildItem \"$dir\" 'Navicat_Keygen*.exe' | ForEach-Object {",
+        "         # $1 is needed to not remove character",
+        "    $newName = 'Navicat_Keygen'",
+        "    Rename-Item $_.Fullname ($newName + $_.Extension)",
+        "}"
+    ],
+    "url": "https://github.com/Deltafox79/Navicat_Keygen/releases/download/v5.3/Navicat_Keygen_Patch_v5.3_By_DFoX.rar",
+    "hash": "672ab0afe3c497eda46830fa907c997e6823f01325f4784e4799533d6c3d3c4d",
+    "bin": "Navicat_Keygen.exe",
+    "shortcuts": [
+        [
+            "Navicat_Keygen.exe",
+            "Navicat_Keygen"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/Deltafox79/Navicat_Keygen/releases/download/v$version/Navicat_Keygen_Patch_v$version_By_DFoX.rar"
+    }
+}
