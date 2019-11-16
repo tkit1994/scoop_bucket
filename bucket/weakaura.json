@@ -1,0 +1,28 @@
+{
+    "version": "1.2.4",
+    "description": "WeakAuras Companion",
+    "homepage": "https://weakauras.wtf/",
+    "license": "Freeware",
+    "notes": "",
+    "depends": "",
+    "installer": {
+        "script": [
+            "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
+            "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse"
+        ]
+    },
+    "url": "https://github.com/WeakAuras/WeakAuras-Companion/releases/download/v1.2.4/WeakAuras-Companion-Setup-1.2.4.exe#dl.7z",
+    "hash": "8eb57ed933f3d24382008ca93126dcbc80a4a68be6f98865b9ade9009a1a688a",
+    "shortcuts": [
+        [
+            "WeakAuras Companion.exe",
+            "WeakAuras Companions"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/WeakAuras/WeakAuras-Companion"
+    },
+    "autoupdate": {
+        "url": "https://github.com/WeakAuras/WeakAuras-Companion/releases/download/v$version/WeakAuras-Companion-Setup-$version.exe#dl.7z"
+    }
+}
