@@ -1,5 +1,5 @@
 {
-    "version": "5.4",
+    "version": "5.5",
     "description": "A keygen for Navicat",
     "homepage": "https://github.com/Deltafox79/Navicat_Keygen",
     "license": "Unknown",
@@ -12,8 +12,8 @@
         "    Rename-Item $_.Fullname ($newName + $_.Extension)",
         "}"
     ],
-    "url": "https://github.com/Deltafox79/Navicat_Keygen/releases/download/v5.4/Navicat_Keygen_Patch_v5.4_By_DFoX.rar",
-    "hash": "5567f543b55da9dc92ae6a563a10aa628ffead41bc31886c91963866de38eff1",
+    "url": "https://github.com/Deltafox79/Navicat_Keygen/releases/download/v5.5/Navicat_Keygen_Patch_v5.5_By_DFoX.rar",
+    "hash": "14e158a7c62d13120564325d965c9a6e08e8ba009039f524cd58e57192a73d05",
     "bin": "Navicat_Keygen.exe",
     "shortcuts": [
         [
