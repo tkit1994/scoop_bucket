@@ -17,9 +17,9 @@
     ],
     "checkver": {
         "url": "https://www.ownedcore.com/forums/world-of-warcraft/world-of-warcraft-bots-programs/795619-jmorph-tmorph-morpher-recreated.html",
-        "re": "href=\"https?://(?<href>www\\.dropbox\\.com.*?)\"[\\s\\S]*?(?<version>\\d*\\.\\d*\\.\\d*\\.\\d+)"
+        "re": "href=\"https?://www\\.dropbox\\.com/s/(?<href>\\w+)/jm.zip\\?dl=1.*?\"[\\s\\S]*?(?<version>\\d*\\.\\d*\\.\\d*\\.\\d+)"
     },
     "autoupdate": {
-        "url": "https://$matchHref"
+        "url": "https://www.dropbox.com/s/$matchHref/jm.zip?dl=1"
     }
 }
