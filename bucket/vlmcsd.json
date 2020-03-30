@@ -1,12 +1,12 @@
 {
-    "version": "1112",
+    "version": "1113",
     "description": "KMS Emulator in C",
     "homepage": "https://github.com/Wind4/vlmcsd",
     "license": "Freeware",
     "notes": "",
     "depends": "",
-    "url": "https://github.com/Wind4/vlmcsd/releases/download/svn1112/binaries.tar.gz",
-    "hash": "a2fc70c4a22786076a09b597cdbfbfa3e02ce7c88c3693f30d1d54047f1bdb24",
+    "url": "https://github.com/Wind4/vlmcsd/releases/download/svn1113/binaries.tar.gz",
+    "hash": "a084514ca2a016e2cbbb0471ae0d833e1e7487f8c2b8188d5c8efce8cad455ec",
     "architecture": {
         "64bit": {
             "extract_dir": "binaries\\Windows\\intel",
