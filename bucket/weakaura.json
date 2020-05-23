@@ -1,5 +1,5 @@
 {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "description": "The bridge between WeakAuras and wago.io",
     "homepage": "https://weakauras.wtf/",
     "license": "Freeware",
@@ -11,8 +11,8 @@
             "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse"
         ]
     },
-    "url": "https://github.com/WeakAuras/WeakAuras-Companion/releases/download/v3.0.0/WeakAuras-Companion-Setup-3.0.0.exe#dl.7z",
-    "hash": "cd431d3d3b6d455adc20abdaa3429cbdbdc2eb178fc9e3d85a7656de594a2e82",
+    "url": "https://github.com/WeakAuras/WeakAuras-Companion/releases/download/v3.0.1/WeakAuras-Companion-Setup-3.0.1.exe#dl.7z",
+    "hash": "5cf2feb53892f9297963c8ed7a04caa5fb15842a076a2b9cc3d171f1ae4e51ed",
     "shortcuts": [
         [
             "WeakAuras Companion.exe",
