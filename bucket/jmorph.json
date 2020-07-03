@@ -1,5 +1,5 @@
 {
-    "version": "8.3.0.34769",
+    "version": "8.3.0.34963",
     "description": "a recreation of the popular morpher tMorph made with help of the memory editing section and Icesythe7 for world of warcraft",
     "homepage": "https://www.ownedcore.com/forums/world-of-warcraft/world-of-warcraft-bots-programs/795619-jmorph-tmorph-morpher-recreated.html",
     "license": "Freeware",
@@ -7,7 +7,7 @@
     "depends": "",
     "url": "https://www.dropbox.com/s/wegm7piz24cpdwe/jm.zip?dl=1",
     "extract_dir": "jm",
-    "hash": "bcd0cfb899f16dfc809cb5015aac4af186b73ddbbb4bdd2acad1b9fd740e9124",
+    "hash": "7139dda7bd36e09ff5eeeef6fbd85a4aae60296c71e73f55b26920f4e74c2357",
     "bin": "jMorph Loader.exe",
     "shortcuts": [
         [
