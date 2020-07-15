@@ -7,7 +7,7 @@
     "depends": "",
     "url": "https://az699247.vo.msecnd.net/downloads/VelocitySetup-1.1.14.msi",
     "hash": "96ca6409653fe172bcddf732b7881277a87ec73c8a06b54a1b8ec55b3ad3db82",
-    "bin": "",
+    "bin": "Velocity.exe",
     "extract_dir": "Silverlake Software LLC\\Velocity",
     "shortcuts": [
         [
@@ -20,6 +20,6 @@
         "re": "https://(?<href>.*)/downloads/VelocitySetup-(?<version>.*)\\.msi"
     },
     "autoupdate": {
-        "url": "https://$matchHref/downloads/VelocitySetup-$matchVersion.msi"
+        "url": "https://az699247.vo.msecnd.net/downloads/VelocitySetup-$matchVersion.msi"
     }
 }
