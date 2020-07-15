@@ -1,0 +1,25 @@
+{
+    "version": "1.1.14",
+    "description": "A Huge Documentation Library",
+    "homepage": "https://velocity.silverlakesoftware.com/",
+    "license": "Unknown",
+    "notes": "Velocity is free to download and try with no time limit.  A periodic reminder to buy a license will be shown while using Velocity.\nTo crack it go to https://www.jianshu.com/p/177201f66d06",
+    "depends": "",
+    "url": "https://az699247.vo.msecnd.net/downloads/VelocitySetup-1.1.14.msi",
+    "hash": "96ca6409653fe172bcddf732b7881277a87ec73c8a06b54a1b8ec55b3ad3db82",
+    "bin": "Velocity.exe",
+    "extract_dir": "Silverlake Software LLC\\Velocity",
+    "shortcuts": [
+        [
+            "Velocity.exe",
+            "Velocity"
+        ]
+    ],
+    "checkver": {
+        "url": "https://velocity.silverlakesoftware.com/",
+        "re": "https://(?<href>.*)/downloads/VelocitySetup-(?<version>.*)\\.msi"
+    },
+    "autoupdate": {
+        "url": "https://az699247.vo.msecnd.net/downloads/VelocitySetup-$matchVersion.msi"
+    }
+}
