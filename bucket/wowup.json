@@ -1,5 +1,5 @@
 {
-    "version": "2.4.4",
+    "version": "2.4.5",
     "description": "the World of Warcraft addon updater",
     "homepage": "https://wowup.io/",
     "license": "GPL-3",
@@ -11,8 +11,8 @@
             "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse"
         ]
     },
-    "url": "https://github.com/WowUp/WowUp/releases/download/v2.4.4/WowUp-SetUp-2.4.4.exe#dl.7z",
-    "hash": "357af8ab3a093040f8aa7e2ce6b09d6afa6cd89692cb28dfe511b27db2553ab4",
+    "url": "https://github.com/WowUp/WowUp/releases/download/v2.4.5/WowUp-SetUp-2.4.5.exe#dl.7z",
+    "hash": "20c2be17ec6b55e07806e7383f224dd8b0161f79857f436e95a329f9581a9755",
     "bin": "WowUp.exe",
     "shortcuts": [
         [
