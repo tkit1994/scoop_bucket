@@ -3,7 +3,6 @@
     "description": "Lightweight multi-protocol & multi-source command-line download utility",
     "license": "GPL-2.0-or-later",
     "version": "1.4",
-    "extract_dir": "",
     "architecture": {
         "64bit": {
             "url": "https://github.com/tkit1994/aria2-fast/releases/download/v1.4/aria2c-fast_x64.exe",
