@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: Excavate
-      uses: Ash258/Scoop-GithubActions@stable-win
+      uses: ScoopInstaller/GithubActions@main
       env:
         GITH_EMAIL: ch1994@outlook.com
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
