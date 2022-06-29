@@ -25,7 +25,6 @@
             ]
         }
     },
-    "depends": "",
     "checkver": {
         "github": "https://github.com/tkit1994/aria2-fast"
     },
