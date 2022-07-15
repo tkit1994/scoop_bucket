@@ -1,16 +1,15 @@
 on:
   issue_comment:
-    types: [created]
-name: Pull requests comment
+    types: [ created ]
+name: Commented Pull Request
 jobs:
   pullRequestHandler:
     name: PullRequestHandler
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@main
     - name: PullRequestHandler
-      uses: Ash258/Scoop-GithubActions@stable
+      uses: ScoopInstaller/GithubActions@main
       if: startsWith(github.event.comment.body, '/verify')
       env:
-        GITH_EMAIL: ch1994@outlook.com
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
