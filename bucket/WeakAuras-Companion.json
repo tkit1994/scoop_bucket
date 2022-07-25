@@ -2,7 +2,7 @@
     "version": "4.0.4",
     "description": "The bridge between WeakAuras and wago.io",
     "homepage": "https://weakauras.wtf/",
-    "license": "Freeware",
+    "license": "GPL-2",
     "installer": {
         "script": [
             "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
