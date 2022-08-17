@@ -1,10 +1,10 @@
 {
-    "version": "1.18.12",
+    "version": "1.18.13",
     "description": "Hearthstone Deck Tracker is an automatic deck tracker and deck manager for Hearthstone.",
     "homepage": "https://hsreplay.net/",
     "license": "Freeware",
-    "url": "https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.18.12/Hearthstone.Deck.Tracker-v1.18.12.zip",
-    "hash": "939f02bd31ff39e5677c511714af377f08c1e22c87a34c6439bc49a06cf9a7d1",
+    "url": "https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.18.13/Hearthstone.Deck.Tracker-v1.18.13.zip",
+    "hash": "45f0d4022474e5a7ec9edfe83fc417b29acd85fc5b35568ef7f3d6b9621cfde1",
     "bin": "Hearthstone Deck Tracker.exe",
     "extract_dir": "Hearthstone Deck Tracker",
     "shortcuts": [
