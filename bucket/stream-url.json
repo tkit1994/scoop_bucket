@@ -1,10 +1,10 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "description": "The bridge between WeakAuras and wago.io",
     "homepage": "https://github.com/tkit1994/stream-url",
     "license": "MIT",
-    "url": "https://github.com/tkit1994/stream-url/releases/download/v0.1.2/stream-url-v0.1.2.x86_64-pc-windows-msvc.zip",
-    "hash": "4dd42bf3045315c3877b016ac5253600b1381525674d6c41c738c7440892b765",
+    "url": "https://github.com/tkit1994/stream-url/releases/download/v0.1.3/stream-url-v0.1.3.x86_64-pc-windows-msvc.zip",
+    "hash": "264ac3ee28d7244f214e428dd53b923c0305e41faa08839ec79683fe58da7221",
     "bin": [
         [
             "stream-url.exe",
