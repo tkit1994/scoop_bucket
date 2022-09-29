@@ -1,0 +1,25 @@
+{
+    "version": "1.6.2",
+    "description": "Advanced PCB auto-router",
+    "homepage": "https://github.com/freerouting/freerouting",
+    "license": "GPL-3.0-or-later",
+    "extract_dir": "freerouting",
+    "url": "https://github.com/freerouting/freerouting/releases/download/v1.6.2/freerouting-1.6.2-windows-x64.msi",
+    "bin": [
+        "freerouting.exe",
+        "freerouting"
+    ],
+    "shortcuts": [
+        [
+            "freerouting.exe",
+            "FreeRouting"
+        ]
+    ],
+    "hash": "02d96a9e46cf5e96ab31257acd9ed763f241ca76e65491f2ad7b86d0a4b10f11",
+    "checkver": {
+        "github": "https://github.com/freerouting/freerouting"
+    },
+    "autoupdate": {
+        "url": "https://github.com/freerouting/freerouting/releases/download/v$version/freerouting-$version-windows-x64.msi"
+    }
+}
