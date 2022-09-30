@@ -5,9 +5,7 @@
     "license": "GPL-3.0-or-later",
     "extract_dir": "freerouting",
     "url": "https://github.com/freerouting/freerouting/releases/download/v1.6.2/freerouting-1.6.2-windows-x64.msi",
-    "bin": [
-        "freerouting.exe"
-    ],
+    "bin": "freerouting.exe",
     "shortcuts": [
         [
             "freerouting.exe",
