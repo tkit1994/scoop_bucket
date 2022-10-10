@@ -27,7 +27,7 @@
     "autoupdate": {
         "url": "http://cdn.apifox.cn/download/$version/Apifox-$version.exe#dl.7z",
         "hash": {
-            "url": "http://cdn.apifox.cn/download/latest.yml",
+            "url": "https://cdn.apifox.cn/download/latest.yml",
             "mode": "extract",
             "regex": "sha512.*?$base64"
         }
