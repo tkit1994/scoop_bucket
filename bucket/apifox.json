@@ -2,12 +2,12 @@
     "description": "Apifox = Postman + Swagger + Mock + JMeter",
     "homepage": "https://www.apifox.cn/",
     "bin": "Apifox.exe",
-    "url": "https://cdn.apifox.cn/download/2.1.34/Apifox-2.1.34.exe#dl.7z",
-    "hash": "sha512:de92b8d57c12d274b07532e49e115bf3b2ea760504b89aa88a0ebd5e7c4bec2c343523afbafcfefa6cda335242e4e192524be1475d113baff832f035ecf37696",
+    "url": "https://cdn.apifox.cn/download/2.1.28/Apifox-2.1.28.exe#dl.7z",
+    "hash": "sha512:15b6165e06236d3991916bbe3c7091cf5b72a0252e8e3ef7254ddc898a3ea2d7ce62302ce105ea1c2693fb8633f54c3b9eb3638626f4c58f41f45b288f1feff3",
     "license": {
         "identifier": "Freeware"
     },
-    "version": "2.1.34",
+    "version": "2.1.28",
     "checkver": {
         "url": "https://cdn.apifox.cn/download/latest.yml",
         "regex": "(?sm)version:[\\s]+([\\d.]+)"
