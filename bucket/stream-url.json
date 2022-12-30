@@ -4,7 +4,7 @@
     "homepage": "https://github.com/tkit1994/stream-url",
     "license": "MIT",
     "url": "https://github.com/tkit1994/stream-url/releases/download/v0.2.0/stream-url-v0.2.0.x86_64-pc-windows-gnu.tar.gz",
-    "hash": "ec6181f0ad53bd9784a1e9aba361b1df03f0af2ae42a6456e1413df060f11ceb",
+    "hash": "7a73fe6848d3ddaf3ca2c80ce01155234f1fb5dd0098d5e77afff296ffdf4f5b",
     "bin": [
         [
             "cli.exe",
