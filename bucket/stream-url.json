@@ -1,10 +1,10 @@
 {
-    "version": "0.2.3",
+    "version": "0.2.5",
     "description": "A command line tool to get stream urls written in rust.",
     "homepage": "https://github.com/tkit1994/stream-url",
     "license": "MIT",
-    "url": "https://github.com/tkit1994/stream-url/releases/download/v0.2.3/stream-url-v0.2.3.x86_64-pc-windows-gnu.tar.gz",
-    "hash": "4daf1c7d91aa1ef3bc88ea789da167f80d96fd57022c6b9b830d35c66a98fe05",
+    "url": "https://github.com/tkit1994/stream-url/releases/download/v0.2.5/stream-url-v0.2.5.x86_64-pc-windows-gnu.tar.gz",
+    "hash": "1ffe70d7851207210de9f8f99dd6669b8fcda38c2414506aff7d0b5c4af6b9e1",
     "bin": [
         [
             "cli.exe",
