@@ -3,6 +3,7 @@
     "homepage": "https://github.com/yzbtdiy/alist_batch",
     "description": "Alist批量添加阿里云盘链接Golang版本",
     "checkver": "github",
+    "license": "MIT",
     "bin": [
         [
             "alist_batch_win64.exe",
