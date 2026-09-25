@@ -6,7 +6,6 @@
     "url": "https://github.com/huanyuejue/Fluent-Steam-Lua/releases/download/1.4.6/Fluent-Steam-Lua-1.4.6-loose-file.zip",
     "hash": "4bd5261250a9f6375735348e2e5a940fe9b8751476ed94b2b05688520ccdcb09",
     "checkver": "github",
-    "extract_dir": "Fluent Steam Lua",
     "shortcuts": [
         [
             "SteamLuaManager.exe",
