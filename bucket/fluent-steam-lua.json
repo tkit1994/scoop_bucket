@@ -1,10 +1,10 @@
 {
-    "version": "1.5.5",
+    "version": "1.5.5.1",
     "description": "基于 WPF + Fluent Design 开发的现代化轻量级 Steam Lua 入库管理工具，目前仅适配OpenSteamTool",
     "homepage": "https://github.com/huanyuejue/Fluent-Steam-Lua",
     "license": "zlib License",
-    "url": "https://github.com/huanyuejue/Fluent-Steam-Lua/releases/download/1.5.5/Fluent-Steam-Lua-1.5.5-loose-file.zip",
-    "hash": "9d9bfc0f7327de07b6f6479321a1f1a0d462ae3450c1deeae590c6bd738c6a23",
+    "url": "https://github.com/huanyuejue/Fluent-Steam-Lua/releases/download/1.5.5.1/Fluent-Steam-Lua-1.5.5.1-loose-file.zip",
+    "hash": "2ea0dff39001b2581ea26f47ac63db6b3e589f3213de35a1262188fe8294d94b",
     "checkver": "github",
     "shortcuts": [
         [
